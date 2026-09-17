@@ -262,8 +262,8 @@ ORDER BY month_num ASC;
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/dominos-sql-analysis.git
-cd dominos-sql-analysis
+git clone https://github.com/akshatraghav22/dominos-pizza-sql-analysis.git
+cd dominos-pizza-sql-analysis
 ```
 
 ### 2. Import into MySQL:
